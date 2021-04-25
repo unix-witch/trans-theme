@@ -1,0 +1,23 @@
+{
+    "name": "gay-gay-homosexual-gay",
+    "displayName": "gay gay homosexual gay",
+    "description": "transgender/nb theme",
+    "readme": "./README.md",
+    "publisher": "roylatgnail",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "transtheme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/transtheme-color-theme.json"
+            }
+        ]
+    }
+}
