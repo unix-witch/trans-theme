@@ -4,8 +4,11 @@
 	"colors": {
 		"editor.background": "#263238",
 		"editor.foreground": "#FFFFFF",
-		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"activityBarBadge.background": "#263238",
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.background": "#263238",
+		"list.hoverBackground": "#263238",
+		"activityBar.background": "#263238"
 	},
 	"tokenColors": [
 		{
@@ -16,7 +19,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#546E7A"
+				"foreground": "#4f5152"
 			}
 		},
 		{
@@ -35,7 +38,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#FF1B8D"
 			}
 		},
 		{
@@ -175,7 +178,7 @@
 				"support.type"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#FF1B8D"
 			}
 		},
 		{
@@ -189,7 +192,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#B2CCD6"
+				"foreground": "#1BB3FF"
 			}
 		},
 		{
