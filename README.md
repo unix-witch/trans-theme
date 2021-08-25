@@ -7,3 +7,4 @@ A (bad) vscode theme with colors from the following pride flags:
 
 
 made in around 30 min, pretty bad
+somehow has 200 installs
